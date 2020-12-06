@@ -43,7 +43,7 @@
     </form>
 </table>
 <hr>
-<table border="1">
+<table border="111">
     <tr>
         <td>id</td>
         <td>name</td>
