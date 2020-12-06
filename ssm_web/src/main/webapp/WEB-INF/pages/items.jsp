@@ -35,7 +35,7 @@
                 <td><input type="text" name="detail"/></td>
             </tr>
             <tr>
-                <td colspan="2">
+                <td colspan="222">
                     <input type="submit" value="提交"/>
                 </td>
             </tr>
