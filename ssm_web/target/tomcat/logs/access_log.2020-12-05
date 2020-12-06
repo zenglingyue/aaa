@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:40:07 +0800] "GET /items/list HTTP/1.1" 404 971 http-bio-18081-exec-1 80
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:40:08 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-18081-exec-3 2
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:41:29 +0800] "GET /ithems/findAll HTTP/1.1" 200 2073 http-bio-18081-exec-5 1074
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:44:39 +0800] "GET /ithems/findAll HTTP/1.1" 500 5884 http-bio-18081-exec-1 976
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:45:45 +0800] "GET /ithems/findAll HTTP/1.1" 200 2076 http-bio-18081-exec-1 1296
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:46:40 +0800] "GET /ithems/findAll HTTP/1.1" 500 5884 http-bio-18081-exec-1 909
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:49:52 +0800] "GET /ithems/findAll HTTP/1.1" 200 2067 http-bio-18081-exec-1 872
+0:0:0:0:0:0:0:1 - - [05/Dec/2020:20:50:32 +0800] "GET /ithems/findAll HTTP/1.1" 200 2076 http-bio-18081-exec-1 990
